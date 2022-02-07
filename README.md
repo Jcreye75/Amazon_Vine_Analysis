@@ -128,7 +128,16 @@ Using the Amazon Video games data, and objectives above, what found is the follo
 
 ### Summary: 
 
-Paid 5-stars Vine reviews represent the 50%. Unpaid 5stars reviews represent 30%, therefre both whos that data are biased.
+Paid 5-stars Vine reviews represent the 51.06%. Unpaid 5stars reviews represent 38.70%, therefre both data are biased.
+- The total of Vine Reviews are 94, where 48 are 5 stars rated.
+- The total of non - Vine reviews are 40,471, where 15,663 are 5 stars rated.
+
+Even the quantity of paid vs non - paid are totally differente on amount, the percentaje of 5 stars review on the paid one are higher than the non - paid.
+
+Additional analysis can be done, reviewing the rest of no 5 stars to compare and validate the other qualifications so we can comment furtherly.
+
+Regards
+JC
 
 
 
