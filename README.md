@@ -64,3 +64,71 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ![3_4_Vine_Table](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
 
+## Deliverable 2
+1. DataFrame was created for the vine_table data using PySpark method.
+
+![D2_0_Dataframe](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+2. The data is filtered to create a DataFrame where there are 20 or more total votes.
+
+![D2_1_DFfilteredg20](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+3. The data is filtered to create a DataFrame where the percentage of helpful_votes is equal to or greater than 50%.
+
+![D2_2_DFfilteredg50P](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+4. The data is filtered to create a DataFrame where there is a Vine review. 
+
+![D2_3_DFfilteredPaid](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+5. The data is filtered to create a DataFrame where there isn’t a Vine review.
+
+![D2_4_DFfilteredunPaid](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+6. The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews.
+![D2_5_PaidunPaid](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+## Deliverable 3
+
+### Overview of the analysis: 
+
+The analysis is done to practice the following:
+- Define big data and describe the challenges associated with it.
+- Define Hadoop and name the main elements of its ecosystem.
+- Explain how MapReduce processes data.
+- Define Spark and explain how it processes data.
+- Describe how NLP collects and analyzes text data.
+- Explain how to use AWS Simple Storage Service (S3) and relational databases for basic cloud storage.
+- Complete an analysis of an Amazon customer review.
+
+Using the Amazon Video games data, and objectives above, what found is the following:
+
+### Results
+
+- How many Vine reviews and non-Vine reviews were there?
+
+![D3_1](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+- How many Vine reviews were 5 stars?
+
+![D3_2](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+- How many non-Vine reviews were 5 stars?
+
+![D3_3](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+- What percentage of Vine reviews were 5 stars? 
+
+![D3_4](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+- What percentage of non-Vine reviews were 5 stars?
+
+![D3_5](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
+
+
+### Summary: 
+
+Paid 5-stars Vine reviews represent the 50%. Unpaid 5stars reviews represent 30%, therefre both whos that data are biased.
+
+
+
