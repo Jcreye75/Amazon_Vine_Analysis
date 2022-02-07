@@ -19,48 +19,48 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 1. The Database for the Challenge was created:
 
-![1_0_Database]()
+![1_0_Database](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/1_0_Database.png)
 
 2. The Database crewated uoin AWS, was connected to PgAdmin
 
-![1_1_DB2Pgadmin]()
+![1_1_DB2Pgadmin](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/1_1_DB2Pgadmin.png)
 
 3. Using Google Colan Notebook, the.ipynb file was created to execute the code on it.
-![1_2_ColabR2U]()
+![1_2_ColabR2U](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/1_2_ColabR2U.png)
 
 4. Four tables were created on PgAdmin
 
-![2_0_Query2Tables]()
+![2_0_Query2Tables](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/2_0_Query2Tables.png)
 
 5. From the selected Amazon DB (Video Games), customers Dataframe was created with the columns needed.
 
-![2_1_Customers]()
+![2_1_Customers](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/2_1_Customers.png)
 
 6. From the selected Amazon DB (Video Games), products Dataframe was created with the columns needed.
 
-![2_2_Products]()
+![2_2_Products](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/2_2_Products.png)
 
 7. From the selected Amazon DB (Video Games), review id Dataframe was created with the columns needed.
 
-![2_3_Reviewid]()
+![2_3_Reviewid](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/2_3_Reviewid.png)
 
 8. From the selected Amazon DB (Video Games), vine Dataframe was created with the columns needed.
 
-![2_4_Vine]()
+![2_4_Vine](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/2_4_Vine.png)
 
 9. Customer dataframe loaded into the appropiate pgAdmin table
 
-![3_1_Customers_Table]()
+![3_1_Customers_Table](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_1_Customers_Table.png)
 
 10. Products dataframe loaded into the appropiate pgAdmin table
 
-![3_2_Products_Table]()
+![3_2_Products_Table](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_2_Products_Table.png)
 
 11. Review id dataframe loaded into the appropiate pgAdmin table
 
-![3_3_Reviewid_Table]()
+![3_3_Reviewid_Table](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_3_Reviewid_Table.png)
 
 12. Vine dataframe loaded into the appropiate pgAdmin table
 
-![3_4_Vine_Table]()
+![3_4_Vine_Table](https://github.com/Jcreye75/Amazon_Vine_Analysis/blob/9771894c4e2aa76bd68708ffa376fcfbf7040ba5/Resources/3_4_Vine_Table.png)
 
